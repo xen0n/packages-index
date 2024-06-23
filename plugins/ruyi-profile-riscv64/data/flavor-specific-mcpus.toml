@@ -1,0 +1,3 @@
+[flavor_specific_mcpus.xthead]
+thead-c906 = "c906"
+thead-c910 = "c910"
